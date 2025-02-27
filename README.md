@@ -1,8 +1,6 @@
 # ecoCommerceFSE
 Group  Members: 
 ---------------------------------
-| Name          | Roll Number  |
----------------------------------
 | Jinny Kapur   | 2210990462   |
 | Jiya          | 2210990463   |
 | Jiya Gaba     | 2210990464   |
