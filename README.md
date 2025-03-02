@@ -1,4 +1,4 @@
-# ecoCommerceFSE
+# e-CommerceFSE
 Group  Members: 
 ---------------------------------
 | Jinny Kapur   | 2210990462   |
